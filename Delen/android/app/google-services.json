@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644926814201",
+    "project_id": "delen-ecb87",
+    "storage_bucket": "delen-ecb87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644926814201:android:a1b7b7ab369e7dbd3eaf28",
+        "android_client_info": {
+          "package_name": "com.example.delen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644926814201-132uo9cbk378rgi05ffgjkfhcl72ljk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSIyzR4aDey5XLBYQipZD6ysnZ1QEJJ-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644926814201-132uo9cbk378rgi05ffgjkfhcl72ljk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
